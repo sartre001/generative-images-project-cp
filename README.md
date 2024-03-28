@@ -1,5 +1,6 @@
 Character Generator Web Application
 Overview
+
 This project is a web-based character generator that utilizes the OpenAI's DALL-E API to generate images based on user-provided descriptions, styles, color schemes, and backgrounds. The application also extracts and displays the main color palette of the generated image.
 
 Features
