@@ -1,8 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Character Generator Web Application README</title>
-</head>
 <body>
     <h1>Character Generator Web Application</h1>
     <h2>Overview</h2>
