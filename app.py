@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Set the API key directly
-openai.api_key = 'i have an api key with dalle for chatgpt 4... i rly cant submit this with it for obvious reasons...'
+openai.api_key = ''
 
 def generate_character(description, style, color_scheme, background):
     full_prompt = f"{description}, style: {style}, color scheme: {color_scheme}, background: {background}"
